@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLData xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AkiguchiPBL>
+    <Members>
+      <Member>
+        <Name>しょー</Name>
+        <Occupation>プログラマー(会社曰くシステムエンジニア（笑）)</Occupation>
+        <FavoriteLessons>
+          <FavoriteLesson>ソフトウェア開発プロセス特論</FavoriteLesson>
+        </FavoriteLessons>
+      <Member>
+        <Name>たい</Name>
+        <Occupation>DBエンジニア(けど、DB以外もいろいろやってます)</Occupation>
+        <FavoriteLessons>
+          <FavoriteLesson>Javaプログラミング技法</FavoriteLesson>
+          <FavoriteLesson>オブジェクト指向開発特論</FavoriteLesson>
+          <FavoriteLesson>ソフトウェア開発特論Ⅰ</FavoriteLesson>
+        </FavoriteLessons>
+      <Member>
+        <Name>ただ</Name>
+        <Occupation>プログラマ兼PMみたいな仕事</Occupation>
+        <FavoriteLessons>
+          <FavoriteLesson>アーキテクト系や開発系</FavoriteLesson>
+        </FavoriteLessons>
+      <Member>
+        <Name>あっけ</Name>
+        <Occupation>Javaプログラマ</Occupation>
+        <FavoriteLessons>
+          <FavoriteLesson>情報ビジネス特別講義などの一見ITとは関わりがなさそうな授業</FavoriteLesson>
+        </FavoriteLessons>
+      <Member>
+        <Name>あっき</Name>
+        <Occupation>開発者</Occupation>
+        <FavoriteLessons>
+          <FavoriteLesson>情報アーキテクチャ特論II</FavoriteLesson>
+        </FavoriteLessons>
+      <Member>
+        <Name>りゅー</Name>
+        <Occupation>プログラマ（と言ってるけど、業務でコードはまず書くことはなし）。タイトルはプロジェクトマネージャ、実態はクラウドインフラエンジニア兼ビジネス企画開発</Occupation>
+        <FavoriteLessons>
+          <FavoriteLesson>ソフトウェア工学特論</FavoriteLesson>
+          <FavoriteLesson>システムモデリング（創造）</FavoriteLesson>
+          <FavoriteLesson>OSS特論</FavoriteLesson>
+        </FavoriteLessons>
+    </Members>
+  </AkiguchiPBL>
+</XMLData>
