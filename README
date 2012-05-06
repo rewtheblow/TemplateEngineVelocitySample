@@ -1,0 +1,43 @@
+[Caution]
+This is sample program of template engine "Velocity".
+Describes how to write template file and use this library.
+The author don't have any responsibilities and real obligation regarding this program.
+
+[注意]
+これはテンプレートエンジンの Velocityのサンプルプログラムです。
+テンプレートファイルの書き方とライブラリの使い方を示しています。
+作者は、このプログラムに関するいかなる説明責任も実際の責任も負いません。
+
+[ファイル構造]
+TemplateEngineVelocitySample
+│  .classpath
+│  .project
+│  output.xml ---------------------------- Output file of this program
+│  README
+│
+├─.settings
+│      org.eclipse.core.resources.prefs
+│      org.eclipse.jdt.core.prefs
+│
+├─bin
+│  ├─app
+│  │      Main.class
+│  │      VelocityWrapper.class
+│  │
+│  └─entity
+│          Member.class
+│
+├─lib
+│      velocity-1.6.4-dep.jar ------------ Velocity library binary file
+│
+├─src
+│  ├─app
+│  │      Main.java ---------------------- Main procedure
+│  │      VelocityWrapper.java ----------- Wrapper class of Velocity library
+│  │
+│  └─entity
+│          Member.java ------------------- Entity class of sample data means project member
+│
+└─template
+        AkiguchiPBL.vm ------------------- Template file of Velocity library. Check this file if you want to write it.
+        velocity.properties -------------- Property file of setting of Velocity
